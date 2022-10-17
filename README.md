@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JhaanHoltzhausen
-- 👀 I’m interested in Robotics and game design in Unreal Engine
+- 👀 I’m interested in Robotics and game design with Unreal Engine
 - 🌱 I’m currently studing at Eduvos and starting to learn the basics of the UE5 engine
 - 📫 How to reach me: You can email me on my work emal jhaanholtzh@gmail.com
 
